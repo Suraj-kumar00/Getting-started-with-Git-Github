@@ -132,7 +132,7 @@ _We would love to have you, feel free to open issues and pull requests, and Don'
 > &#8548; . Create your branch.
 
    ```sh
-   git checkout -b <your_github_username-details>
+   git checkout -b <your_github_username>
    ```
 > &#8549;. Make a directory.
 
