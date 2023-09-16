@@ -91,7 +91,7 @@ _View the list of all contributors [here](https://github.com/Suraj-kumar00/Getti
 
 - Git-Cheat-Sheet [pdf](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/Resources/git-cheat-sheet-education.pdf)
 - Git and Github (_Handwritten_) [pdf](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/Resources/Git%20And%20Github%20Notes.pdf)
-- You more learn about open source [here](https://surajk00.hashnode.dev/what-is-open-source-beginners-guide-how-to-get-started)
+- You can more learn about open source [here](https://surajk00.hashnode.dev/what-is-open-source-beginners-guide-how-to-get-started)
 
 ---
 ## License 📝
