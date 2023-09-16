@@ -8,7 +8,7 @@
 # Getting-Started
 > ## ⚠️Prerequisites 
 >> - Before getting into it, make sure you have read this [blog](https://surajk00.hashnode.dev/getting-to-know-git-and-github-your-codes-best-friends#heading-what-is-git)
->> - Also, make sure to read the [CONTRIBUTING guidelines]()
+>> - Also, make sure to read the [CONTRIBUTING guidelines](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/CONTRIBUTING.md)
 ---
 # How to Be a Participant.
 > &#8544;. First star ⭐️ the [repo](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github). 
@@ -89,9 +89,11 @@ _View the list of all contributors [here](https://github.com/Suraj-kumar00/Getti
 ---
 ## Resources
 ::: warning
-- Git-Cheat-Sheet [pdf]()
-- Git and Github (_Handwritten_) [pdf](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/blob/main/Git%20And%20Github%20Notes.pdf)
+
+- Git-Cheat-Sheet [pdf](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/Resources/git-cheat-sheet-education.pdf)
+- Git and Github (_Handwritten_) [pdf](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/Resources/Git%20And%20Github%20Notes.pdf)
 - You more learn about open source [here](https://surajk00.hashnode.dev/what-is-open-source-beginners-guide-how-to-get-started)
+
 :::
 ---
 ## License 📝
