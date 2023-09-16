@@ -44,7 +44,7 @@
 ---
 Name: Alex
 GitHub_username: Alex-00
-Linkedin : Link_of_Social_post_where_you_share_your_learning
+Linkedin : [your_social_username](Link_of_Social_post_where_you_share_your_learning)
 ---
 ```
 >&#8552;. Stage your changes
