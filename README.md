@@ -8,7 +8,7 @@
 # Getting-Started
 > ## ⚠️Prerequisites 
 >> - Before getting into it, make sure you have read this [blog](https://surajk00.hashnode.dev/getting-to-know-git-and-github-your-codes-best-friends#heading-what-is-git)
->> - Also, make sure to read the [CONTRIBUTING guidelines](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/CONTRIBUTING.md)
+>> - Also, make sure to read the [CONTRIBUTING guidelines](https://github.com/suraj-kumar00/Getting-started-with-Git-Github/blob/mohit/CONTRIBUTING.md)
 ---
 # How to Be a Participant.
 > &#8544;. First star ⭐️ the [repo](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github). 
@@ -39,12 +39,12 @@
    ```sh
    touch Contributors/github_username/your_name.md
 ```
->&#8551;. Add your details in markdown file and save it.
+>&#8551;. Add your details in the markdown file and save it.
 ```sh
 ---
 Name: Alex
 GitHub_username: Alex-00
-Linkedin/Twitter : Link_of_Social_post_where_you_share_your_learning
+Linkedin/Twitter: Link_of_Social_post_where_you_share_your_learning
 ---
 ```
 >&#8552;. Stage your changes
@@ -64,7 +64,7 @@ Linkedin/Twitter : Link_of_Social_post_where_you_share_your_learning
    ``` 
    git push origin "<your_branch_name>"
    ```
-> &#8555;. Create a [pull request](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/compare). So, that we can merge it.
+> &#8555;. Create a [pull request](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/compare) so, that we can merge it.
 
 > XIII. Share your learning with this repo on social.
 ```
@@ -74,14 +74,14 @@ https://github.com/Suraj-kumar00/Getting-started-with-Git-Github
 ## What will you gain?
 
 - Basic of the Git and Github.
-- You start your open-source-journey by contributing to this repository.
+- You start your open-source journey by contributing to this repository.
 ---
 ## Contributors ✨
 
 Thank you so much for your time, effort, and dedication! 😄
 
 <a href="https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Suraj-kumar00/Getting-started-with-Git-Github" />
+  <img src="https://contrib.rocks/image?repo=mohitjoping/Getting-started-with-Git-Github" />
 </a>
 
 _View the list of all contributors [here](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/graphs/contributors)._
@@ -89,9 +89,9 @@ _View the list of all contributors [here](https://github.com/Suraj-kumar00/Getti
 ---
 ## Resources
 
-- Git-Cheat-Sheet [pdf](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/Resources/git-cheat-sheet-education.pdf)
-- Git and Github (_Handwritten_) [pdf](https://github.com/mohitjoping/Getting-started-with-Git-Github/blob/mohit/Resources/Git%20And%20Github%20Notes.pdf)
-- You can more learn about open source [here](https://surajk00.hashnode.dev/what-is-open-source-beginners-guide-how-to-get-started)
+- Git-Cheat-Sheet [pdf](https://github.com/suraj-kumar00/Getting-started-with-Git-Github/blob/mohit/Resources/git-cheat-sheet-education.pdf)
+- Git and Github (_Handwritten_) [pdf](https://github.com/suraj-kumar00/Getting-started-with-Git-Github/blob/mohit/Resources/Git%20And%20Github%20Notes.pdf)
+- You can learn more about open source [here](https://surajk00.hashnode.dev/what-is-open-source-beginners-guide-how-to-get-started)
 
 ---
 ## License 📝
