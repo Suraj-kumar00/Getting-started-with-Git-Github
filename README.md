@@ -4,7 +4,7 @@
 
 ## [Getting to Know Git and GitHub: _Your Code's Best Friends_](https://surajk00.hashnode.dev/getting-to-know-git-and-github-your-codes-best-friends#heading-what-is-git)
 
-![Git and Github](https://cdn.hashnode.com/res/hashnode/image/upload/v1693398758809/3aab0636-bb93-4b41-9389-3c0edfc89754.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+![Git and Github](./Assets/git_github_banner.png)
 
 ---
 
@@ -26,7 +26,7 @@
 > &#8546;. Clone the project to run on your local machine using the following command:
 
 ```sh
-  git clone URL of forked repo
+git clone URL of forked repo
 ```
 
 > &#8547;. Get into the root directory if you are not
@@ -43,29 +43,35 @@ git checkout -b <your_github_username>
 example: git chekcout -b suraj/contributor
 ```
 
-> &#8549;. Make a directory.
+> &#8549;. Move to Contributors directory.
 
 ```sh
-mkdir Contributors/github_username
+cd Contributors
 ```
 
-> &#8550;. Create a markdown file.
+> &#8550;. Create a directory.
 
 ```sh
-touch Contributors/github_username/your_name.md
+mkdir your_github_username
 ```
 
-> &#8551;. Add your details in the markdown file and save it.
+> &#8551;. Create a markdown file.
+
+```sh
+touch your_github_username/your_name.md
+```
+
+> &#8552;. Add your details in the markdown file and save it.
 
 ```sh
 ---
-Name: Alex
-GitHub_username: Alex-00
+Name: John Doe
+GitHub_username: JohnD-00
 Linkedin/Twitter: Link_of_Social_post_where_you_share_your_learning
 ---
 ```
 
-> &#8552;. Stage your changes
+> &#8553;. Stage your changes
 
 ```sh
 git add filename
@@ -73,19 +79,19 @@ or
 git add . // the '.' means here to add all the files
 ```
 
-> &#8553;. Commit your changes
+> &#8554;. Commit your changes
 
 ```sh
 git commit -m "your-commit-message"
 ```
 
-> &#8554;.Push your changes to your branch
+> &#8555;.Push your changes to your branch
 
 ```
-git push origin "<your_branch_name>"
+git push origin "your_branch_name"
 ```
 
-> &#8555;. Create a [pull request](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/compare) so, that we can merge it.
+> &#8556;. Create a [pull request](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/compare) so, that we can merge it.
 
 > XIII. Share your learning with this repo on social.
 
