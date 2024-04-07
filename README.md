@@ -136,7 +136,7 @@ _View the list of all contributors [here](https://github.com/Suraj-kumar00/Getti
 
 ## License 📝
 
-LinksHub is licensed under the terms of the MIT License. check out [LICENSE](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/blob/main/LICENSE.txt) for details.
+This repo is licensed under the terms of the MIT License. check out [LICENSE](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/blob/main/LICENSE.txt) for details.
 
 ---
 
