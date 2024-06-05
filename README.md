@@ -32,7 +32,7 @@ git clone URL of forked repo
 > &#8547;. Get into the root directory if you are not
 
 ```sh
-cd Getting-started-with-Git-Githube
+cd Getting-started-with-Git-Github
 ```
 
 > &#8548; . Create your branch.
@@ -40,7 +40,7 @@ cd Getting-started-with-Git-Githube
 ```sh
 git checkout -b <your_github_username>
 
-example: git chekcout -b suraj/contributor
+example: git checkout -b suraj/contributor
 ```
 
 > &#8549;. Move to Contributors directory.
