@@ -131,6 +131,7 @@ _View the list of all contributors [here](https://github.com/Suraj-kumar00/Getti
 - Git-Cheat-Sheet [pdf](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/blob/main/Resources/git-cheat-sheet-education.pdf)
 - Git and Github (_Handwritten_) [pdf](https://github.com/Suraj-kumar00/Getting-started-with-Git-Github/blob/main/Resources/Git%20And%20Github%20Notes.pdf)
 - You can learn more about open source [here](https://surajk00.hashnode.dev/what-is-open-source-beginners-guide-how-to-get-started)
+- How Git Works: Explained in 4 Minutes(ByteByteGo) [here](https://www.youtube.com/watch?v=e9lnsKot_SQ&t=51s)
 
 ---
 
