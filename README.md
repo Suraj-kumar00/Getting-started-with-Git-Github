@@ -25,7 +25,7 @@
 
 > &#8546;. Clone the project to run on your local machine using the following command:
 
-```sh
+```bash
 git clone URL of forked repo
 ```
 
