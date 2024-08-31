@@ -73,10 +73,10 @@ Linkedin/Twitter: Link_of_Social_post_where_you_share_your_learning
 
 > &#8553;. Stage your changes
 
-```sh
+```bash
 git add filename
 or
-git add . // the '.' means here to add all the files
+git add . # the '.' means here to add all the files
 ```
 
 > &#8554;. Commit your changes
